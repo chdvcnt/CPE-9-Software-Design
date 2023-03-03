@@ -1,4 +1,4 @@
-# Prescription Scanner with information and description of medication 
+# Prescription Scanner 
 for CPE 9 - Software Design
 
 ## A. Project Output
@@ -12,11 +12,8 @@ d) MySQL (Database)
 
 ## C. Creative Solution
 a) Smartphone Scanner
-b)Medication name
-c) Dosage
-d) Instructions
-e) Friendly user interface (UI)
-f) Help center
+b) Friendly user interface (UI)
+c) Help center
     
 ## D. Decide your deadline
 3-4 hours weekly
