@@ -1,19 +1,21 @@
-# Prescription Scanner 
+# SyncRUA
 for CPE 9 - Software Design
 
 ## A. Project Output
-Prescription Scanner
+Designed for managing synchronization of reminders, updates, and announcement with offline functionality and group collaboration features. 
 
 ## B. Baseline
-a) Python / Java / Javascript / Kotlin
+a) Mobile / Web Programming Language
 b) OOP
-c) OCR
-d) MySQL (Database)
+c) Database
+d) Figma
 
 ## C. Creative Solution
-a) Smartphone Scanner
+a) Real-time Syncing
 b) Friendly user interface (UI)
-c) Help center
-    
+c) Collaborative Group Features
+d) Customizable Reminders, Updates and Announcement
+e) Pop out Notification
+
 ## D. Decide your deadline
 3-4 hours weekly
